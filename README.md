@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naveens007
+- 👀 I’m interested in Enterprise Architecture, Software Design, AI, ML.
+- 🌱 I’m currently learning Container Orchestration, Distributed Computing
+- 💞️ I’m looking to collaborate on Smart Cities, AI, ML
+- 📫 How to reach me naveens007@zoho.com
