@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveens007
 - 👀 I’m interested in Enterprise Architecture, Software Design, AI, ML.
-- 🌱 I’m currently learning Container Orchestration, Distributed Computing
+- 🌱 I’m currently learning performance measurements, Distributed Computing
 - 💞️ I’m looking to collaborate on AI/ML Advanced Programming
 - 📫 How to reach me naveen.sharma@robonix.ca
